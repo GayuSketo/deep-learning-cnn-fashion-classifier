@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated outputs
+artifacts/*.keras
+artifacts/*.json
+reports/*.png
+reports/*.txt
+reports/*.json
+
+# OS / IDE
+.DS_Store
+.vscode/
